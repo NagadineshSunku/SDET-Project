@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/selenium-server-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/poi-examples-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/poi-excelant-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/poi-javadoc-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/poi-ooxml-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/poi-ooxml-full-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/poi-ooxml-lite-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/poi-scratchpad-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/xmlbeans-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/eclipse-workspace/Project/Support Jars/junit-4.13.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
